@@ -43,6 +43,7 @@ calculator/
 │
 ├── calculator.py     # Main Python script
 └── README.md         # Project documentation
+
 ## Requirements
 Python 3.x
 
